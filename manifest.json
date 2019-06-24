@@ -1,0 +1,38 @@
+{
+  "name": Tutorial Pajak
+  "short_name": "Tutorial_Pajak",
+  "start_url": "https://www.tutorialpajak.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-BfVoRBAOTno/XREY2UAIKLI/AAAAAAAAAJI/NZDMKxN2jPA4KOSeB7opYSCxwyMpNKKGwCLcBGAs/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-l6YObSOOPdQ/XREY2yuk5_I/AAAAAAAAAJQ/Ybx1ruycch8yN4fB0BXJ4WN3c3Q4zczWACLcBGAs/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MgQ6mG5RgxU/XREY3PyxxBI/AAAAAAAAAJU/MVMkPhr7Yo4NKf_1uFCY3jCeDwKAOEOtQCLcBGAs/s1600/favicon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4t9km-XPTW8/XREY2akNYGI/AAAAAAAAAJM/h6wqIz5llswOaDbzSCMDYYMTYwHGT3fTQCLcBGAs/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-sLkdJALwzMg/XREZhZdI1NI/AAAAAAAAAJo/hKtGHJF5U_8KfIhisqpGd5ri6IdnyfBuACLcBGAs/s1600/168%2Bx%2B168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-jRUDntPelu8/XREY2KxGVfI/AAAAAAAAAJE/zPsWDoljIXoJfK1SMgcu94Twr_vqKEgjwCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Y5Scys7aECc/XREZh2YMPZI/AAAAAAAAAJs/avGVCFkZ2G4JKO9iHLYZmBtTFXANuzBjwCLcBGAs/s1600/512%2Bx%2B512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
