@@ -1,0 +1,38 @@
+{
+  "name": Cara 1001
+  "short_name": "Cara_1001",
+  "start_url": "https://www.cara1001.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog Seputar Tips dan Trik Teknologi.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-vm5gFCKQ088/XRGxV1UsovI/AAAAAAAAAI0/yYT5Uj64dIEbpZpdKpWmsf2p-RJnj9BdwCLcBGAs/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-He0tZVhMOqo/XRGxV5-zDoI/AAAAAAAAAI4/08aoxtMDdhU2-Prb7EkRH4QRgFYwty8QQCLcBGAs/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-a3NhbpmwH-Q/XRGxW8cUcoI/AAAAAAAAAI8/_O3VJDGPt_4XFTKnPqBOB-396Brw9puPQCLcBGAs/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ELu_hCxh_U4/XRGxVA2L39I/AAAAAAAAAIs/72R-JPp7gJU3Ol5IQpR_uqXYeUgDbFNDACLcBGAs/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-B_EzGwzlAm8/XRGxUlJqzZI/AAAAAAAAAIk/cUlVIApan10nKWx2ZjBF6qiSKOIJuNVhgCLcBGAs/s1600/168%2Bx%2B168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xob5KSAnPbk/XRGxVhntF3I/AAAAAAAAAIw/hpqa05JusSUaONSd7y-pCFbyjC5u613dwCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-AYximXgfnUw/XRGxU02vfRI/AAAAAAAAAIo/-VGeeG7bU9IdDGHqG7nWIgROJ1oYPtggQCLcBGAs/s1600/512%2Bx%2B512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
